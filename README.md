@@ -4,25 +4,19 @@
    
 # Hosted URL :- 
  
-   https://issue-tracker-project-6tab.onrender.com
+   https://issue-tracker-cl1s.onrender.com
   
-
-
 
 # Tech Tools Used :- 
     
      HTML, CSS, JavaScript, Bootstrap, Node.js, Express.js, MongoDB.
      
-# How to use ?
 
-   Run this command in your GitHub CLI
-
-     gh repo clone smally1529/issue-tracker 
      
 # or use the URL 
 
     
-   https://github.com/smally1529/issue-tracker.git 
+   https://github.com/Yashas682/issue_tracker
    
 # Features :- 
 
