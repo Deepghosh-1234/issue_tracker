@@ -13,7 +13,7 @@
      
 
      
-# or use the URL 
+# Use the URL 
 
     
    https://github.com/Yashas682/issue_tracker
