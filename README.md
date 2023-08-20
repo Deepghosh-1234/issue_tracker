@@ -6,7 +6,7 @@
  
    https://issue-tracker-cl1s.onrender.com
    
-# Screenshorts
+# User Interface
 
   ![iss1](https://github.com/Yashas682/issue_tracker/assets/91604926/e99386a7-5631-41d6-89fe-e753e08ed801)
   ![iss2](https://github.com/Yashas682/issue_tracker/assets/91604926/d9834e97-e884-422b-b2e7-861bd78029aa)
