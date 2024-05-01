@@ -25,8 +25,8 @@
      
 # Use the URL 
 
-    
-   https://github.com/Yashas682/issue_tracker
+    https://github.com/Deepghosh-1234/issue_tracker
+   
    
 # Features :- 
 
